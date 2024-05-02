@@ -208,7 +208,7 @@ body {
 .search-banner-wrapper {
   width: 100%;
   background-color: #1e1e1e;
-  background-image: url('/assets/images/brochetas.jpg');
+  background-image: url(../images/brochetas.jpg);
 }
 
 .search-banner {
